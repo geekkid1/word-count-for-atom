@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle isaac-blum-word-count",
+        "command": "isaac-blum-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "isaac-blum-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "isaac-blum-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
