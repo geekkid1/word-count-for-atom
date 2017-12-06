@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle isaac-blum-word-count",
+        "label": "Toggle Word Count",
         "command": "isaac-blum-word-count:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "isaac-blum-word-count",
+          "label": "Word Count",
           "submenu": [
             {
               "label": "Toggle",
