@@ -9,7 +9,7 @@
     "atom-workspace": "isaac-blum-word-count:toggle"
   },
   "repository": "https://github.com/geekkid1/word-count-for-atom",
-  "license": "",
+  "license": " ",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
